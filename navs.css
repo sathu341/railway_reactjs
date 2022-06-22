@@ -91,3 +91,12 @@ body{
     display:flex;
     
   }
+  .imgs{
+     width:100px;
+     height:150px;
+     background-color: green;
+  }
+  .imags{
+    width:500px;
+    height:450px;
+  }
